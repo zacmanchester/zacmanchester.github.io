@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Zac Manchester
 tagline:             'Rocket Scientist, Engineer, Bass Player'
-description:         'Zac's Homepage'
+description:         'Zac''s Homepage'
 url:                 http://zacmanchester.com
 baseurl:             ''
 paginate:            5
