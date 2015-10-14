@@ -17,4 +17,4 @@ title: Publications
 
 
 ### Dissertation
-1. Z. Manchester. "[Centimeter Scale Spacecraft: Design, Fabrication, and Deployment](/docs/Zac_Manchester_PhD_Dissertation.pdf)." August, 2015.
+1. Z. Manchester. "[Centimeter Scale Spacecraft: Design, Fabrication, and Deployment](/docs/Zac_Manchester_PhD_Dissertation.pdf)." Ph.D. Dissertation. Cornell University. Ithaca, NY. August, 2015.
