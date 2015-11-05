@@ -18,3 +18,6 @@ title: Publications
 
 ### Dissertation
 1. Z. Manchester. "[Centimeter Scale Spacecraft: Design, Fabrication, and Deployment](/docs/Zac_Manchester_PhD_Dissertation.pdf)." Ph.D. Dissertation. Cornell University. Ithaca, NY. August, 2015.
+
+### Miscellaneous
+1. Z. Manchester. "[Measurement and Analysis of the Capacitance of Charged Objects in a Plasma with Applications to Lorentz-Actuated Spacecraft](/docs/Zac_Manchester_MEng_Report.pdf)." M.Eng. Report. Cornell University. Ithaca, NY. May, 2010.
