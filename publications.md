@@ -4,9 +4,9 @@ title: Publications
 ---
 
 ### Journal Papers 
-1. Z. Manchester and M. Peck. "[Quaternion Variational Integrators for Spacecraft Dynamics](/docs/Variational_Integrator.pdf)." AIAA Journal of Guidance, Control, and Dynamics (to appear).
+1. Z. Manchester and M. Peck. "[Quaternion Variational Integrators for Spacecraft Dynamics](/docs/Variational_Integrator.pdf)." AIAA Journal of Guidance, Control, and Dynamics (accepted April 10, 2015).
 
-2. Z. Manchester and M. Peck. "[Recursive Inertia Estimation with Semidefinite Programming](/docs/Inertia_Estimation.pdf)." AIAA Journal of Guidance, Control, and Dynamics (in review).
+2. Z. Manchester and M. Peck. "Recursive Inertia Estimation with Semidefinite Programming." AIAA Journal of Guidance, Control, and Dynamics (in review).
 
 ### Conference Papers
 1. Z. Manchester, M. Peck, and A. Filo. "[KickSat: A Crowd-Funded Mission To Demonstrate The World's Smallest Spacecraft](/docs/KickSat_SmallSat.pdf)." AIAA/USU Conference on Small Satellites. Logan, Utah. August 12-16, 2013.
