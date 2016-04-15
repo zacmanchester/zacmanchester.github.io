@@ -3,7 +3,7 @@ layout: post
 title: Breakthrough Starshot
 ---
 
-I am very excited and deeply honored to be part of the [Breakthrough Starshot](http://breakthroughinitiatives.org/Initiative/3) project that was announced this week. It was a surreal to be around so many people that I admire and to witness the launch of such a bold and forward-looking journey. Check out all of the Sprites making a cameo on stage!
+I am very excited and deeply honored to be part of the [Breakthrough Starshot](http://breakthroughinitiatives.org/Initiative/3) project that was announced this week. It was surreal to be around so many people that I admire and to witness the launch of such a bold and forward-looking journey. Check out all of the Sprites making a cameo on stage!
 
 ![Starshot Group Photo](/img/Starshot_Group_Photo.jpg)
 
