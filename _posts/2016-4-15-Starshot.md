@@ -9,7 +9,7 @@ I am very excited and deeply honored to be part of the [Breakthrough Starshot](h
 
 If you haven't heard yet, Starshot is a project with the goal of sending spacecraft to [Alpha Centauri](https://en.wikipedia.org/wiki/Alpha_Centauri), our closest neghboring star system. As currently envisioned, this would involve building a bunch of small super-lightweight spacecraft and pushing them in the right direction with a giant laser until they reach 20% of the speed of light. It would then take about 20 years for the little "nanocraft" to reach Alpha Centauri. You can watch the announcement for the project, which goes into more detail and has some cool videos, at the bottom of this post.
 
-There are, of course, many daunting engineering challenges that will have to be solved to make Starshot happen, including building the biggest laser system ever conceived, developing materials that can survive being shot by that laser without vaporizing, and communicating with a tiny spacecraft over a distance of more than four lightyears. However, all of the fundamental physics checks out. With enough time, ingenuity, and hard work, we can make it to the stars.
+There are, of course, many daunting engineering challenges that will have to be solved to make Starshot happen, including building the biggest laser system ever conceived, developing materials that can survive being shot by that laser without vaporizing, and communicating with the tiny spacecraft over a distance of more than four lightyears. However, all of the fundamental physics checks out. With enough time, ingenuity, and hard work, we can make it to the stars.
 
 Ad Astra!
 
