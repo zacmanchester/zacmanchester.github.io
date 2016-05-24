@@ -4,9 +4,9 @@ title: Publications
 ---
 
 ### Journal Papers 
-1. Z. Manchester and M. Peck. "[Quaternion Variational Integrators for Spacecraft Dynamics](/docs/Variational_Integrator.pdf)," AIAA Journal of Guidance, Control, and Dynamics (accepted April 10, 2015).
+1. Z. Manchester and M. Peck. "[Quaternion Variational Integrators for Spacecraft Dynamics](/docs/Variational_Integrator.pdf)," *AIAA Journal of Guidance, Control, and Dynamics*, Vol. 39, No. 1, 2016, pp. 69–76.
 
-2. Z. Manchester and M. Peck. "Recursive Inertia Estimation with Semidefinite Programming," AIAA Journal of Guidance, Control, and Dynamics (in review).
+2. Z. Manchester and M. Peck. "Recursive Inertia Estimation with Semidefinite Programming," *AIAA Journal of Guidance, Control, and Dynamics* (in review).
 
 ### Conference Papers
 1.	Z. Manchester. “Lyapunov-Based Control for Flat-Spin Recovery and Spin Inversion of Spin-Stabilized Spacecraft,” AIAA/AAS Astrodynamics Specialist Conference, Long Beach, California, September 13-16, 2016.
