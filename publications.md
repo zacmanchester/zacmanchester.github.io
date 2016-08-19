@@ -9,13 +9,15 @@ title: Publications
 2. Z. Manchester and M. Peck. "Recursive Inertia Estimation with Semidefinite Programming," *AIAA Journal of Guidance, Control, and Dynamics* (in review).
 
 ### Conference Papers
-1.	Z. Manchester. “Lyapunov-Based Control for Flat-Spin Recovery and Spin Inversion of Spin-Stabilized Spacecraft,” AIAA/AAS Astrodynamics Specialist Conference, Long Beach, California, September 13-16, 2016.
+1.	Z. Manchester and S. Kuindersma. "[Derivative-Free Trajectory Optimization with Unscented Dynamic Programming](/docs/udp.pdf)," IEEE Conference on Decision and Control, Las Vegas, Nevada, December 12-14, 2016.
 
-2. Z. Manchester, M. Peck, and A. Filo. "[KickSat: A Crowd-Funded Mission To Demonstrate The World's Smallest Spacecraft](/docs/KickSat_SmallSat.pdf)," AIAA/USU Conference on Small Satellites. Logan, Utah. August 12-16, 2013.
+2.	Z. Manchester. “[Lyapunov-Based Control for Flat-Spin Recovery and Spin Inversion of Spin-Stabilized Spacecraft](/docs/spin-control.pdf),” AIAA/AAS Astrodynamics Specialist Conference, Long Beach, California, September 13-16, 2016.
 
-3. Z. Manchester and M. Peck. "Stochastic Space Exploration with Microscale Spacecraft," AIAA Guidance, Navigation, and Control Conference. Portland, OR. August 8-11, 2011.
+3. Z. Manchester, M. Peck, and A. Filo. "[KickSat: A Crowd-Funded Mission To Demonstrate The World's Smallest Spacecraft](/docs/KickSat_SmallSat.pdf)," AIAA/USU Conference on Small Satellites. Logan, Utah. August 12-16, 2013.
 
-4. J. Atchison, Z. Manchester, and M. Peck. "Microscale Atmospheric Reentry Sensors," 7th International Planetary Probe Workshop. Barcelona, Spain. June 14-18, 2010.
+4. Z. Manchester and M. Peck. "Stochastic Space Exploration with Microscale Spacecraft," AIAA Guidance, Navigation, and Control Conference. Portland, OR. August 8-11, 2011.
+
+5. J. Atchison, Z. Manchester, and M. Peck. "Microscale Atmospheric Reentry Sensors," 7th International Planetary Probe Workshop. Barcelona, Spain. June 14-18, 2010.
 
 
 ### Dissertation
