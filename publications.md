@@ -14,7 +14,7 @@ title: Publications
 
 3.	Z. Manchester and S. Kuindersma. "[Derivative-Free Trajectory Optimization with Unscented Dynamic Programming](/docs/udp.pdf)," IEEE Conference on Decision and Control, Las Vegas, Nevada, December 12-14, 2016.
 
-4.	Z. Manchester. “[Lyapunov-Based Control for Flat-Spin Recovery and Spin Inversion of Spin-Stabilized Spacecraft](/docs/spin-control.pdf),” AIAA/AAS Astrodynamics Specialist Conference, Long Beach, California, September 13-16, 2016.
+4.	Z. Manchester. “[Lyapunov-Based Control for Flat-Spin Recovery and Spin Inversion of Spin-Stabilized Spacecraft](/docs/Spin_Control.pdf),” AIAA/AAS Astrodynamics Specialist Conference, Long Beach, California, September 13-16, 2016.
 
 5. Z. Manchester, M. Peck, and A. Filo. "[KickSat: A Crowd-Funded Mission To Demonstrate The World's Smallest Spacecraft](/docs/KickSat_SmallSat.pdf)," AIAA/USU Conference on Small Satellites. Logan, Utah. August 12-16, 2013.
 
