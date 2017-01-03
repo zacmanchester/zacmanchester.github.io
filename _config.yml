@@ -10,7 +10,7 @@ tagline:             'Engineer, Rocket Scientist, Bass Player'
 description:         'Zac''s Homepage'
 url:                 http://zacmanchester.com
 baseurl:             'http://zacinaction.github.io'
-paginate:            5
+paginate:            8
 
 # About/contact
 author:
