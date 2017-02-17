@@ -5,7 +5,7 @@ title: Publications
 
 ### Journal Papers 
 
-1. Z. Manchester and A. Loeb. "[Stability Of A Light Sail Riding On A Laser Beam](https://arxiv.org/pdf/1609.09506.pdf)," *The Astrophysical Journal Letters*, In Review.
+1. Z. Manchester and A. Loeb. "[Stability Of A Light Sail Riding On A Laser Beam](https://arxiv.org/pdf/1609.09506.pdf)," *The Astrophysical Journal Letters*, To Appear.
 
 2. Z. Manchester and M. Peck. "[Quaternion Variational Integrators for Spacecraft Dynamics](/docs/Variational_Integrator.pdf)," *AIAA Journal of Guidance, Control, and Dynamics*, Vol. 39, No. 1, 2016, pp. 69–76.
 
