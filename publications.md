@@ -5,25 +5,29 @@ title: Publications
 
 ### Journal Papers 
 
-1. Z. Manchester and A. Loeb. "[Stability Of A Light Sail Riding On A Laser Beam](https://arxiv.org/pdf/1609.09506.pdf)," *The Astrophysical Journal Letters*, To Appear.
+1. Z. Manchester and A. Loeb. "[Stability Of A Light Sail Riding On A Laser Beam](http://iopscience.iop.org/article/10.3847/2041-8213/aa619b/)," *The Astrophysical Journal Letters*, Vol. 837, No. 2, 2017.
 
 2. Z. Manchester and M. Peck. "[Quaternion Variational Integrators for Spacecraft Dynamics](/docs/Variational_Integrator.pdf)," *AIAA Journal of Guidance, Control, and Dynamics*, Vol. 39, No. 1, 2016, pp. 69–76.
 
 ### Conference Papers
 
-1.	Z. Manchester, J. Lipton, R. Wood, and S. Kuindersma. "[A Variable-Sweep Wing Design for Enhanced Perching in Micro Aerial Vehicles](/docs/Morphing_Wing.pdf)," 55th AIAA Aerospace Sciences Meeting, Grapevine, Texas, January 9-13, 2017.
+1. Z. Manchester and S. Kuindersma. "DIRTREL: Robust Nonlinear Direct Transcription with Ellipsoidal Disturbances and LQR Feedback," Robotics: Science and Systems (RSS), In Review.
 
-2.	Z. Manchester and M. Peck. "[Recursive Inertia Estimation with Semidefinite Programming](/docs/Inertia_Estimation.pdf)," AIAA Guidance, Navigation, and Control Conference, Grapevine, Texas, January 9-13, 2017.
+2. B. Plancher, Z. Manchester, and S. Kuindersma. "Constrained Unscented Dynamic Programming: A Sampling-Based DDP Algorithm for Trajectory Optimization with State and Input Constraints," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), In Review.
 
-3.	Z. Manchester and S. Kuindersma. "[Derivative-Free Trajectory Optimization with Unscented Dynamic Programming](/docs/udp.pdf)," IEEE Conference on Decision and Control, Las Vegas, Nevada, December 12-14, 2016.
+3.	Z. Manchester, J. Lipton, R. Wood, and S. Kuindersma. "[A Variable-Sweep Wing Design for Enhanced Perching in Micro Aerial Vehicles](/docs/Morphing_Wing.pdf)," 55th AIAA Aerospace Sciences Meeting, Grapevine, Texas, January 9-13, 2017.
 
-4.	Z. Manchester. “[Lyapunov-Based Control for Flat-Spin Recovery and Spin Inversion of Spin-Stabilized Spacecraft](/docs/Spin_Control.pdf),” AIAA/AAS Astrodynamics Specialist Conference, Long Beach, California, September 13-16, 2016.
+4.	Z. Manchester and M. Peck. "[Recursive Inertia Estimation with Semidefinite Programming](/docs/Inertia_Estimation.pdf)," AIAA Guidance, Navigation, and Control Conference, Grapevine, Texas, January 9-13, 2017.
 
-5. Z. Manchester, M. Peck, and A. Filo. "[KickSat: A Crowd-Funded Mission To Demonstrate The World's Smallest Spacecraft](/docs/KickSat_SmallSat.pdf)," AIAA/USU Conference on Small Satellites. Logan, Utah. August 12-16, 2013.
+5.	Z. Manchester and S. Kuindersma. "[Derivative-Free Trajectory Optimization with Unscented Dynamic Programming](/docs/udp.pdf)," IEEE Conference on Decision and Control, Las Vegas, Nevada, December 12-14, 2016.
 
-6. Z. Manchester and M. Peck. "Stochastic Space Exploration with Microscale Spacecraft," AIAA Guidance, Navigation, and Control Conference. Portland, Oregon. August 8-11, 2011.
+6.	Z. Manchester. “[Lyapunov-Based Control for Flat-Spin Recovery and Spin Inversion of Spin-Stabilized Spacecraft](/docs/Spin_Control.pdf),” AIAA/AAS Astrodynamics Specialist Conference, Long Beach, California, September 13-16, 2016.
 
-7. J. Atchison, Z. Manchester, and M. Peck. "Microscale Atmospheric Reentry Sensors," 7th International Planetary Probe Workshop. Barcelona, Spain. June 14-18, 2010.
+7. Z. Manchester, M. Peck, and A. Filo. "[KickSat: A Crowd-Funded Mission To Demonstrate The World's Smallest Spacecraft](/docs/KickSat_SmallSat.pdf)," AIAA/USU Conference on Small Satellites. Logan, Utah. August 12-16, 2013.
+
+8. Z. Manchester and M. Peck. "Stochastic Space Exploration with Microscale Spacecraft," AIAA Guidance, Navigation, and Control Conference. Portland, Oregon. August 8-11, 2011.
+
+9. J. Atchison, Z. Manchester, and M. Peck. "Microscale Atmospheric Reentry Sensors," 7th International Planetary Probe Workshop. Barcelona, Spain. June 14-18, 2010.
 
 
 ### Dissertation
