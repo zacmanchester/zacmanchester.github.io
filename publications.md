@@ -13,7 +13,7 @@ title: Publications
 
 1. Z. Manchester and S. Kuindersma. "[DIRTREL: Robust Nonlinear Direct Transcription with Ellipsoidal Disturbances and LQR Feedback](http://zacinaction.github.io/docs/dirtrel.pdf)," Robotics: Science and Systems (RSS), Cambridge, Massachusetts, July 12-16, 2017.
 
-2. B. Plancher, Z. Manchester, and S. Kuindersma. "Constrained Unscented Dynamic Programming: A Sampling-Based DDP Algorithm for Trajectory Optimization with State and Input Constraints," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), In Review.
+2. B. Plancher, Z. Manchester, and S. Kuindersma. "[Constrained Unscented Dynamic Programming](http://zacinaction.github.io/docs/constrained-udp.pdf)," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), September 24-28, 2017.
 
 3.	Z. Manchester, J. Lipton, R. Wood, and S. Kuindersma. "[A Variable-Sweep Wing Design for Enhanced Perching in Micro Aerial Vehicles](http://zacinaction.github.io/docs/Morphing_Wing.pdf)," 55th AIAA Aerospace Sciences Meeting, Grapevine, Texas, January 9-13, 2017.
 
