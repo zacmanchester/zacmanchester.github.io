@@ -15,19 +15,21 @@ title: Publications
 
 2. B. Plancher, Z. Manchester, and S. Kuindersma. "[Constrained Unscented Dynamic Programming](http://zacinaction.github.io/docs/constrained-udp.pdf)," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), September 24-28, 2017.
 
-3.	Z. Manchester, J. Lipton, R. Wood, and S. Kuindersma. "[A Variable-Sweep Wing Design for Enhanced Perching in Micro Aerial Vehicles](http://zacinaction.github.io/docs/Morphing_Wing.pdf)," 55th AIAA Aerospace Sciences Meeting, Grapevine, Texas, January 9-13, 2017.
+3. J. Lipton, Z. Manchester, and D. Rus. "Planning Cuts for Mobile Robots with Bladed Tools," IEEE International Conference on Robotics and Automation (ICRA), Singapore, May 29 - June 3, 2017.
 
-4.	Z. Manchester and M. Peck. "[Recursive Inertia Estimation with Semidefinite Programming](http://zacinaction.github.io/docs/Inertia_Estimation.pdf)," AIAA Guidance, Navigation, and Control Conference, Grapevine, Texas, January 9-13, 2017.
+4.	Z. Manchester, J. Lipton, R. Wood, and S. Kuindersma. "[A Variable-Sweep Wing Design for Enhanced Perching in Micro Aerial Vehicles](http://zacinaction.github.io/docs/Morphing_Wing.pdf)," 55th AIAA Aerospace Sciences Meeting, Grapevine, Texas, January 9-13, 2017.
 
-5.	Z. Manchester and S. Kuindersma. "[Derivative-Free Trajectory Optimization with Unscented Dynamic Programming](http://zacinaction.github.io/docs/udp.pdf)," IEEE Conference on Decision and Control, Las Vegas, Nevada, December 12-14, 2016.
+5.	Z. Manchester and M. Peck. "[Recursive Inertia Estimation with Semidefinite Programming](http://zacinaction.github.io/docs/Inertia_Estimation.pdf)," AIAA Guidance, Navigation, and Control Conference, Grapevine, Texas, January 9-13, 2017.
 
-6.	Z. Manchester. “[Lyapunov-Based Control for Flat-Spin Recovery and Spin Inversion of Spin-Stabilized Spacecraft](http://zacinaction.github.io/docs/Spin_Control.pdf),” AIAA/AAS Astrodynamics Specialist Conference, Long Beach, California, September 13-16, 2016.
+6.	Z. Manchester and S. Kuindersma. "[Derivative-Free Trajectory Optimization with Unscented Dynamic Programming](http://zacinaction.github.io/docs/udp.pdf)," IEEE Conference on Decision and Control, Las Vegas, Nevada, December 12-14, 2016.
 
-7. Z. Manchester, M. Peck, and A. Filo. "[KickSat: A Crowd-Funded Mission To Demonstrate The World's Smallest Spacecraft](http://zacinaction.github.io/docs/KickSat_SmallSat.pdf)," AIAA/USU Conference on Small Satellites. Logan, Utah. August 12-16, 2013.
+7.	Z. Manchester. “[Lyapunov-Based Control for Flat-Spin Recovery and Spin Inversion of Spin-Stabilized Spacecraft](http://zacinaction.github.io/docs/Spin_Control.pdf),” AIAA/AAS Astrodynamics Specialist Conference, Long Beach, California, September 13-16, 2016.
 
-8. Z. Manchester and M. Peck. "Stochastic Space Exploration with Microscale Spacecraft," AIAA Guidance, Navigation, and Control Conference. Portland, Oregon. August 8-11, 2011.
+8. Z. Manchester, M. Peck, and A. Filo. "[KickSat: A Crowd-Funded Mission To Demonstrate The World's Smallest Spacecraft](http://zacinaction.github.io/docs/KickSat_SmallSat.pdf)," AIAA/USU Conference on Small Satellites. Logan, Utah. August 12-16, 2013.
 
-9. J. Atchison, Z. Manchester, and M. Peck. "Microscale Atmospheric Reentry Sensors," 7th International Planetary Probe Workshop. Barcelona, Spain. June 14-18, 2010.
+9. Z. Manchester and M. Peck. "Stochastic Space Exploration with Microscale Spacecraft," AIAA Guidance, Navigation, and Control Conference. Portland, Oregon. August 8-11, 2011.
+
+10. J. Atchison, Z. Manchester, and M. Peck. "Microscale Atmospheric Reentry Sensors," 7th International Planetary Probe Workshop. Barcelona, Spain. June 14-18, 2010.
 
 
 ### Dissertation
