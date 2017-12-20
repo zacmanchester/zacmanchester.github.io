@@ -13,9 +13,9 @@ title: Publications
 
 1. Z. Manchester and S. Kuindersma. "[Variational Contact-Implicit Trajectory Optimization](http://zacinaction.github.io/docs/Variational_Contact.pdf)," International Symposium on Robotics Research (ISRR), Puerto Varas, Chile, December 11-14, 2017.
 
-2. Z. Manchester and S. Kuindersma. "[DIRTREL: Robust Nonlinear Direct Transcription with Ellipsoidal Disturbances and LQR Feedback](http://zacinaction.github.io/docs/dirtrel.pdf)," Robotics: Science and Systems (RSS), Cambridge, Massachusetts, July 12-16, 2017.
+2. B. Plancher, Z. Manchester, and S. Kuindersma. "[Constrained Unscented Dynamic Programming](http://zacinaction.github.io/docs/constrained-udp.pdf)," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), September 24-28, 2017.
 
-3. B. Plancher, Z. Manchester, and S. Kuindersma. "[Constrained Unscented Dynamic Programming](http://zacinaction.github.io/docs/constrained-udp.pdf)," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), September 24-28, 2017.
+3. Z. Manchester and S. Kuindersma. "[DIRTREL: Robust Nonlinear Direct Transcription with Ellipsoidal Disturbances and LQR Feedback](http://zacinaction.github.io/docs/dirtrel.pdf)," Robotics: Science and Systems (RSS), Cambridge, Massachusetts, July 12-16, 2017.
 
 4. J. Lipton, Z. Manchester, and D. Rus. "[Planning Cuts for Mobile Robots with Bladed Tools](http://zacinaction.github.io/docs/Robot_Saw.pdf)," IEEE International Conference on Robotics and Automation (ICRA), Singapore, May 29 - June 3, 2017.
 
