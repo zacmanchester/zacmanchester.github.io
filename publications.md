@@ -5,15 +5,15 @@ title: Publications
 
 ### Journal Papers 
 
-1. Z. Manchester and A. Loeb. "[Stability Of A Light Sail Riding On A Laser Beam](http://iopscience.iop.org/article/10.3847/2041-8213/aa619b/)," *The Astrophysical Journal Letters*, Vol. 837, No. 2, 2017.
+1. Z. Manchester and A. Loeb. "[Stability Of A Light Sail Riding On A Laser Beam](https://arxiv.org/pdf/1609.09506.pdf)," *The Astrophysical Journal Letters*, Vol. 837, No. 2, 2017.
 
 2. Z. Manchester and M. Peck. "[Quaternion Variational Integrators for Spacecraft Dynamics](http://zacinaction.github.io/docs/Variational_Integrator.pdf)," *AIAA Journal of Guidance, Control, and Dynamics*, Vol. 39, No. 1, 2016, pp. 69–76.
 
 ### Conference Papers
 
-1. Z. Manchester and S. Kuindersma. "[Variational Contact-Implicit Trajectory Optimization](http://zacinaction.github.io/docs/Variational_Contact.pdf)," International Symposium on Robotics Research (ISRR), Puerto Varas, Chile, 2017.
+1. Z. Manchester and S. Kuindersma. "[Variational Contact-Implicit Trajectory Optimization](http://zacinaction.github.io/docs/Variational_Contact.pdf)," International Symposium on Robotics Research (ISRR), Puerto Varas, Chile, December 11-14, 2017.
 
-2. Z. Manchester and S. Kuindersma. "[DIRTREL: Robust Nonlinear Direct Transcription with Ellipsoidal Disturbances and LQR Feedback](http://zacinaction.github.io/docs/dirtrel.pdf)," Robotics: Science and Systems (RSS), Cambridge, Massachusetts, July 12-16, December 11-14, 2017.
+2. Z. Manchester and S. Kuindersma. "[DIRTREL: Robust Nonlinear Direct Transcription with Ellipsoidal Disturbances and LQR Feedback](http://zacinaction.github.io/docs/dirtrel.pdf)," Robotics: Science and Systems (RSS), Cambridge, Massachusetts, July 12-16, 2017.
 
 3. B. Plancher, Z. Manchester, and S. Kuindersma. "[Constrained Unscented Dynamic Programming](http://zacinaction.github.io/docs/constrained-udp.pdf)," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), September 24-28, 2017.
 
