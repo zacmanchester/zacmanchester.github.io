@@ -7,4 +7,4 @@ I was just notified that my first journal paper, "Quaternion Variational Integra
 
 ![EnergyError](/img/EnergyError.png)
 
-If you're still with me after all of that jargon, you can check out the paper on the [journal's website](http://arc.aiaa.org/doi/abs/10.2514/1.G001176) or download a preprint [here](/docs/Variational_Integrator.pdf). I'm also posting MATLAB implementations of the integrators and some demos on [GitHub](https://github.com/zacinaction/quaternion-variational-integrators).
+If you're still with me after all of that jargon, you can check out the paper on the [journal's website](http://arc.aiaa.org/doi/abs/10.2514/1.G001176) or download a preprint [here](/docs/Variational_Integrator.pdf). I'm also posting MATLAB implementations of the integrators and some demos on [GitHub](https://github.com/zacmanchester/quaternion-variational-integrators).

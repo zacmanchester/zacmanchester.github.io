@@ -9,11 +9,11 @@ title:               Zac Manchester
 tagline:             'Engineer, Rocket Scientist, Bass Player'
 description:         'Zac''s Homepage'
 url:                 http://zacmanchester.com
-baseurl:             'http://zacinaction.github.io'
+baseurl:             'http://zacmanchester.github.io'
 paginate:            8
 
 # About/contact
 author:
   name:              Zac Manchester
   url:               http://zacmanchester.com
-  email:             zacinaction@gmail.com
+  email:             zacmanchester@stanford.edu
