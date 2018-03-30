@@ -3,6 +3,12 @@ layout: page
 title: Publications
 ---
 
+### Preprints
+
+1. Z. Manchester and S. Kuindersma. "[Robust Direct Trajectory Optimization Using Approximate Invariant Funnels](http://zacmanchester.github.io/docs/dirtrel-auro.pdf)," *Autonomous Robots*, In Review.
+
+2. J. Lipton, R. MacCurdy, Z. Manchester, L. Chin, D. Celluci, and D. Rus. "Handedness in Shearing Auxetics for Rigid and Compliant Structures," *Science*, To Appear.
+
 ### Journal Papers 
 
 1. Z. Manchester and A. Loeb. "[Stability Of A Light Sail Riding On A Laser Beam](https://arxiv.org/pdf/1609.09506.pdf)," *The Astrophysical Journal Letters*, Vol. 837, No. 2, 2017.
