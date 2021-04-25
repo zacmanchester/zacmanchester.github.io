@@ -1,4 +1,5 @@
 .DS_Store
 vendor/*
 .bundle
+.jekyll-cache
 Gemfile.lock
